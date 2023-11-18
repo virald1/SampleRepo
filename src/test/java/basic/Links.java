@@ -21,6 +21,7 @@ public class Links {
 		select.selectByIndex(3); */
 		
 		WebElement block=driver.findElement(By.cssSelector("div.other-projects"));
+		//GIT comment chnage
 		
 		List<WebElement> links= block.findElements(By.tagName("a"));
 		System.out.println(links.size());
