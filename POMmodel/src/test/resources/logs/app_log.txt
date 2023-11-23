@@ -1,0 +1,4 @@
+INFO    2023-11-23 12:10:15,533 [main] base.Basepage  - Cliking on an Element: close a Frame
+INFO    2023-11-23 12:10:16,776 [main] base.Basepage  - Cliking on an Element: close a Modal
+INFO    2023-11-23 12:10:17,023 [main] base.Basepage  - Typing in an Element: From value is: Bombay<br>
+INFO    2023-11-23 12:10:17,441 [main] base.Basepage  - Typing in an Element: To value is: Abudhabi<br>
